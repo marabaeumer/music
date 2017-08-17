@@ -1,5 +1,12 @@
+
+
 h1 {
-color: lightblue;
+background-color: darkblue;
+color: blue;
 font-size: 30px;
 font-family: cursive;
+}
+
+body {
+  background-color: lightblue;
 }
