@@ -1,12 +1,18 @@
 
 
 h1 {
-background-color: darkblue;
-color: blue;
+color: white;
 font-size: 30px;
 font-family: cursive;
+
 }
 
 body {
-  background-color: lightblue;
+  background-color: black;
+}
+
+h2 {
+color: white;
+font-size: 20px;
+font-family: cursive;
 }
